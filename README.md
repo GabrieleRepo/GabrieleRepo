@@ -9,7 +9,7 @@ Here, you can find all my projects as well as those I have completed for the Dat
 
 ## Languages and Tools I currently use:
 
-[<img align='left' alt='mysql' width='36px' src="./img_n_gifs/mysql_icon.png" style="padding-right:5px">][mysql]
+[<img align='left' alt='mysql' width='36px' src="./img_n_gifs/postgresql_icon.png" style="padding-right:5px">][postgresql]
 [<img align='left' alt='python' width='40px' src="./img_n_gifs/python_icon.png" style="padding-right:5px;" />][python]
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='anaconda' width='55px' src="./img_n_gifs/anaconda_icon.png" style="padding-right:5px;" />][anaconda]
@@ -32,7 +32,7 @@ Here, you can find all my projects as well as those I have completed for the Dat
 </details><br>
 
 
-[mysql]: https://www.mysql.com
+[postgresql]: https://www.postgresql.org
 [python]: https://www.python.org
 [vscode]: https://code.visualstudio.com
 [anaconda]: https://www.anaconda.com/products/distribution
