@@ -1,7 +1,7 @@
 <h1 align='center'>Hi <img src="img_n_gifs/Wave.gif" height='40px' width='40px'>, I'm Gabriele<br><br></h1>
 
 <p>
-My academic background is in Biomedical Engineering 🦾. Later, I began studying SQL and Python programming for <b>Data Analysis</b> and <b>Data Science</b>.<br><br>
+My academic background is in Biomedical Engineering 🦾. I began studying SQL and Python programming for <b>Data Analysis</b> and <b>Data Science</b>.<br><br>
 Here, you can find all my projects as well as those I have completed for the Data Analysis courses I've taken.
 
 ---
@@ -20,10 +20,6 @@ Here, you can find all my projects as well as those I have completed for the Dat
 [<img align='left' alt='seaborn' width='50px' src="./img_n_gifs/seaborn_icon.png" style="padding-right:5px;" />][seaborn]
 [<img align='left' alt='plotly' width='40px' src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" />][plotly]
 [<img align='left' alt='scikit-learn' width='50px' src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" style='padding-right:5px;' />][scikit-learn]
-
-
-</br></br>
-<img align='left' alt='sql' width='65px' src="./img_n_gifs/sql_icon.png" style="padding-right:5px">
 
 <br><br>
 
