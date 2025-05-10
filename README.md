@@ -1,8 +1,9 @@
 <h1 align='center'>Hi <img src="img_n_gifs/Wave.gif" height='40px' width='40px'>, I'm Gabriele<br><br></h1>
 
 <p>
-My academic background is in Biomedical Engineering 🦾. I began studying SQL and Python programming for <b>Data Analysis</b> and <b>Data Science</b>.<br><br>
-Here, you can find all my projects as well as those I have completed for the Data Analysis courses I've taken.
+Passionate about technology 💻 and data analysis 📊. After graduating in Biomedical Engineering 🦾, I started exploring Data Science by learning SQL and Python programming.
+
+In my repositories, you’ll find projects I’m working on, including those from the Data Analysis and Data Science courses I’ve taken.
 
 ---
 
